@@ -1,0 +1,134 @@
+#wpcontent, #wpfooter{
+	margin-left: 140px;
+}
+
+.card{
+	padding: 0px;
+}
+
+.Pointer{
+	cursor: pointer;
+}
+
+.card.text-center {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+#SAUP190122inputsContenedor .contenedorFormGroup{
+  display: none;
+}
+
+#SAUP190122ocultarFormularioConfig label h5{
+  margin-bottom:0px;
+}
+
+
+
+#SAUP190122formContenedor .contenedorFormGroup{
+  display: block;
+}
+
+#SAUP190122inputsContenedor .btnProcesa{
+  display: block;
+}
+
+#SAUP190122formContenedor .btnProcesa{
+  display: none;
+}
+
+
+.ui-tooltip, .arrow:after {
+  background: black;
+  border: 2px solid white;
+}
+.ui-tooltip {
+  padding: 10px 20px;
+  color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 7px black;
+  max-width: 1200px;
+}
+
+
+.arrow {
+  width: 50%;
+  height: 16px;
+  overflow: hidden;
+  position: absolute;
+  left: 50%;
+  margin-left: -35px;
+  bottom: -16px;
+}
+.arrow.top {
+  top: -16px;
+  bottom: auto;
+}
+.arrow.left {
+  left: 20%;
+}
+.arrow:after {
+  content: "";
+  position: absolute;
+  left: 20px;
+  top: -20px;
+  width: 25px;
+  height: 25px;
+  box-shadow: 6px 5px 9px -9px black;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.arrow.top:after {
+  bottom: -20px;
+  top: auto;
+}
+
+
+.SAUP190122margenTop{
+  margin-top:20px;
+}
+
+
+.SAUP190122selectBotstrap{
+  height:calc(2.25rem + 2px) !important;
+}
+
+
+.SAUP190122labelPublic{
+  font-weight:0;
+} 
+
+.SAUP190122contenedorSubdivision{
+  border-left: 0px;border-top: 0px;border-right: 0px;margin-top:0px;
+}
+
+.SAUP190122contenedorSubdivisionUltimo{
+  border-left: 0px;border-top: 0px;border-right: 0px;margin-top:0px;border-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
