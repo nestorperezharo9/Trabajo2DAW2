@@ -1,4 +1,5 @@
 # Trabajo2DAW2
+#Para ver lo realizado, pasarse a la rama 'master'
 
 Se trata de un proyecto de la asignatura Desarrollo de Aplicaciones Web II de la Universidad.
 El trabajo se trata de un portal web realizado con WordPress, en la que se han instalado diferentes plugins para su desarrollo, como son:
